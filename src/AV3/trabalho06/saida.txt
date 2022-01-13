@@ -1,0 +1,13 @@
+Não há caminho entre c e a
+Não há caminho entre c e b
+c d Custo: 3.0
+Não há caminho entre c e e
+c f Custo: 3.0
+c g Custo: 5.0
+c f i h Custo: 19.0
+c f i Custo: 9.0
+c j Custo: 6.0
+c d n k Custo: 14.0
+c j l Custo: 14.0
+c f m Custo: 7.0
+c d n Custo: 8.0

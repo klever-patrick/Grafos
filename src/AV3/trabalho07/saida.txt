@@ -1,0 +1,9 @@
+Grafo contém ciclo negativo entre: 5 e 6
+De 1 a 0	Distância: 999999999
+De 1 a 1	Distância: 0
+De 1 a 2	Distância: -4
+De 1 a 3	Distância: 999999996
+De 1 a 4	Distância: 999999999
+De 1 a 5	Distância: 999999972
+De 1 a 6	Distância: 999999978
+De 1 a 7	Distância: 0
